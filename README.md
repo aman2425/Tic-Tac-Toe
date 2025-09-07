@@ -18,4 +18,7 @@ Language - HTML, CSS, JavaScript
 Clone the repo  
    ```bash
    git clone https://github.com/aman2425/Tic-Tac-Toe.git
+```
+
+<img width="1575" height="944" alt="image" src="https://github.com/user-attachments/assets/72780578-8ded-457e-a3ea-edeff3405d04" />
 
